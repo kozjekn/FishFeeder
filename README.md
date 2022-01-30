@@ -1,6 +1,6 @@
 # FishFeeder
 
- Project for automaitcly feeding fish every day, complete with 3D printable models and Arduino code. Uses stepper motor with ULN2003 driver board.
+ Project for automatically feeding fish every day, complete with 3D printable models and Arduino code. Uses stepper motor with ULN2003 driver board.
 
 ### Usage
 
