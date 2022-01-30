@@ -14,7 +14,7 @@ TODO
 
 Mocrocontroller used for this project was ESP32.  Bellow is schematic of ESP32 GPIO pinout for refernce to help migrating to another microcontroller.
 
-![ESP32-DEV-KIT-DevKitC-v4-pinout-mischianti.jpg](.\879ab1db12d31e3a6cbf6293cee2b15b620d610b.jpg)
+![ESP32-DEV-KIT-DevKitC-v4-pinout-mischianti.jpg](.\assets\879ab1db12d31e3a6cbf6293cee2b15b620d610b.jpg)
 
 ### Stepper motor
 
