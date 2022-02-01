@@ -4,7 +4,7 @@
 
 ### Usage
 
-When button is pressed motor will spin to allow user callibration of the chamber aligment. After button is relesed timer is reset and system will swich chamber after `targetMoveSeconds` seconds elapse.
+When button is pressed motor will spin to allow user callibration of the chamber aligment. After button is released timer is reset and system will swich chamber after `targetMoveSeconds` seconds elapse.
 
 ### Images
 
