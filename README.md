@@ -6,10 +6,6 @@
 
 When button is pressed motor will spin to allow user callibration of the chamber aligment. After button is released timer is reset and system will swich chamber after `targetMoveSeconds` seconds elapse.
 
-### Images
-
-TODO
-
 ### ESP32
 
 Mocrocontroller used for this project was ESP32.  Bellow is schematic of ESP32 GPIO pinout for refernce to help migrating to another microcontroller.
@@ -25,3 +21,13 @@ Specification sheet of  used stepper motor (used driver board: `ULN2003`).
 ### Circut schematic
 
 ![Blank diagram.png](https://github.com/nejek16/FishFeeder/blob/main/assets/4307f492a36da37c1e5134392b7bb6d90c18548f.png)
+
+### Images
+
+![](assets/IMG_20220810_073604.jpg)
+![](assets/IMG_20220810_073606.jpg)
+![](assets/IMG_20220810_073611.jpg)
+![](assets/IMG_20220810_073617.jpg)
+
+### Manual mode demo
+![](assets/VID_20220810_073636.mp4)
